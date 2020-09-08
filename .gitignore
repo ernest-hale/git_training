@@ -1,3 +1,4 @@
 .vscode
 *.txt
 !four.txt
+!mynewfile.txt
